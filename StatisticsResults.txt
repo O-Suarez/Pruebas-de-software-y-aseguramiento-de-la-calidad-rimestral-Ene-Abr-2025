@@ -1,0 +1,6 @@
+Promedio: 50.5225
+Mediana: 50.5
+Moda: 19
+Desviación estándar: 28.88770488893155
+Varianza: 834.4994937499999
+Tiempo de procesamiento: 0.996 ms
